@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Employee 1",
+      "reviews_given": 1,
+      "reviews_received": 2,
+    },
+    {
+      "id": 2,
+      "name": "Employee 2",
+      "reviews_given": 1,
+      "reviews_received": 1,
+    }
+  ]
+}
